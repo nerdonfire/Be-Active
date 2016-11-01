@@ -11,9 +11,11 @@
 			<h1 class="pig">BeActive</h1>
 		</div>
 	</header>
+		<p id="demo"></p>
 	<script type="text/javascript">
 		var person = prompt("Please enter your name", "Harry Potter");
-		window.alert("Hello" + person);
+		document.getElementById("demo").innerHTML = "Hello " + person;
+
 	</script>
 </body>
 </html>
