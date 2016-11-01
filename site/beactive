@@ -12,9 +12,20 @@
 		</div>
 	</header>
 		<p id="demo"></p>
+		<p id="schedule"></p>
 	<script type="text/javascript">
 		var age = prompt("How old are you?", "5");
 		document.getElementById("demo").innerHTML = "You are " + age + " years old.";
+		var HR = 180 - age;
+		var yesterday = prompt("Did you exercise yesterday?", "yes or no");
+
+		if (yesterday === no) {
+			document.getElementById("schedule").innerHTML = "Run for 30 minutes today with your heart rate at" + HR;
+		}
+		else {
+			var intensity =prompt("Good Job! On a scale from 1 to 5, how intense do you want today's workout to be?", "3");
+				if (intensity )
+		}
 	</script>
 </body>
 </html>
