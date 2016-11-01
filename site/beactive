@@ -14,7 +14,7 @@
 		<p id="age"></p>
 	<script type="text/javascript">
 		var age = prompt("Please enter your age");
-		document.getElementById("age").innerHTML = "You are " + age + " years old";
+		document.getElementById("age").innerHTML = "You are " + age + " years old.";
 
 	</script>
 </body>
