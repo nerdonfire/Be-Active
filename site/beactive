@@ -13,9 +13,8 @@
 	</header>
 		<p id="demo"></p>
 	<script type="text/javascript">
-		var age = prompt("How old are you?");
+		var age = prompt("How old are you?", "5");
 		document.getElementById("demo").innerHTML = "You are " + age + " years old.";
-
 	</script>
 </body>
 </html>
