@@ -2,9 +2,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet">
 	<title>drjsfg</title>
 </head>
 <body>
+	<header>
+		<div class="container"> 
+			<h1>BeActive</h1>
+		</div>
+	</header>
 
 </body>
 </html>
