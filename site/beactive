@@ -11,10 +11,10 @@
 			<h1 class="pig">BeActive</h1>
 		</div>
 	</header>
-		<p id="age"></p>
+		<p id="demo"></p>
 	<script type="text/javascript">
-		var age = prompt("Please enter your age");
-		document.getElementById("age").innerHTML = "You are " + age + " years old.";
+		var age = prompt("How old are you?");
+		document.getElementById("demo").innerHTML = "You are " + age + " years old.";
 
 	</script>
 </body>
