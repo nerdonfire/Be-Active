@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet">
-	<title>drjsfg</title>
+	<link rel="stylesheet" href="styles">
+	<title>BeActive</title>
 </head>
 <body>
 	<header>
