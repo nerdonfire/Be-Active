@@ -13,10 +13,7 @@
 	</header>
 	<script type="text/javascript">
 		var person = prompt("Please enter your name", "Harry Potter");
-	if (person != null) {
-    document.getElementById("demo").innerHTML =
-    "Hello " + person + "! How are you today?";
-}
+		window.alert("Hello" + person);
 	</script>
 </body>
 </html>
