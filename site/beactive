@@ -11,6 +11,8 @@
 			<h1 class="pig">BeActive</h1>
 		</div>
 	</header>
-
+	<script type="text/javascript">
+		alert("I am an alert box!");
+	</script>
 </body>
 </html>
