@@ -8,7 +8,7 @@
 <body>
 	<header>
 		<div class="container"> 
-			<h1>BeActive</h1>
+			<h1 class="pig">BeActive</h1>
 		</div>
 	</header>
 
